@@ -14,3 +14,5 @@ ILSpy Training - Lesson 02
 - 員工帳號為 operator。
 - 請保留原始 EXE，將修改後的程式另存新檔。
 - 僅限於本課程提供的練習程式。
+
+HatFactory-Lesson2-2026!
